@@ -1,8 +1,8 @@
 {
-    "name": "com.zoroiscrying.ScriptableObjectCore.Tests",
+    "name": "com.zoroiscrying.scriptable-object-core.Editor.Tests",
     "rootNamespace": "",
     "references": [
-        "com.zoroiscrying.ScriptableObjectCore",
+        "com.zoroiscrying.scriptable-object-core",
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner"
     ],

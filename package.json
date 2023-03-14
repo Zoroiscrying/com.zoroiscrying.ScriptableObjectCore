@@ -1,5 +1,5 @@
 {
-  "name": "com.zoroiscrying.ScriptableObjectCore",
+  "name": "com.zoroiscrying.scriptable-object-core",
   "displayName": "zoroiscrying - ZoroSOCore",
   "version": "0.0.1",
   "unity": "2020.3.14f1c1",
@@ -9,9 +9,10 @@
 	"unity3d",
 	"upm",
     "zoroiscrying",
-    "utility"
+    "utility",
+    "ScriptableObject"
   ],
-  "homepage": "https://github.com/zoroiscrying/com.zoroiscrying.ScriptableObjectCore.git",
+  "homepage": "https://github.com/Zoroiscrying/com.zoroiscrying.ScriptableObjectCore",
   "bugs": {
     "url": "https://github.com/zoroiscrying/com.zoroiscrying.ScriptableObjectCore/issues"
   },

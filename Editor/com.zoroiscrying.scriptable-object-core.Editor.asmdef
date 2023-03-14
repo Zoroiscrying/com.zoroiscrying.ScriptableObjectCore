@@ -1,5 +1,5 @@
 {
-    "name": "com.zoroiscrying.ScriptableObjectCore.Editor",
+    "name": "com.zoroiscrying.scriptable-object-core.Editor",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [
