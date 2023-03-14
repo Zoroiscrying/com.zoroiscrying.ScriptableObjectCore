@@ -38,7 +38,7 @@ Open `Packages/manifest.json` with your favorite text editor. Add a [scoped regi
     }
   ],
   "dependencies": {
-    "com.zoroiscrying.com.zoroiscrying.ScriptableObjectCore": "1.0.0"
+    "com.zoroiscrying.ScriptableObjectCore": "0.0.1"
   }
 }
 ```
@@ -58,7 +58,7 @@ Open `Packages/manifest.json` with your favorite text editor. Add following line
 ```json
 {
   "dependencies": {
-    "com.zoroiscrying.com.zoroiscrying.ScriptableObjectCore": "https://github.com/zoroiscrying/com.zoroiscrying.ScriptableObjectCore.git"
+    "com.zoroiscrying.ScriptableObjectCore": "https://github.com/zoroiscrying/com.zoroiscrying.ScriptableObjectCore.git"
   }
 }
 ```
@@ -73,7 +73,7 @@ Open `Packages/manifest.json` with your favorite text editor. Add following line
 {
   "dependencies": {
   },
-  "testables": [ "com.zoroiscrying.com.zoroiscrying.ScriptableObjectCore" ]
+  "testables": [ "com.zoroiscrying.ScriptableObjectCore" ]
 }
 ```
 
