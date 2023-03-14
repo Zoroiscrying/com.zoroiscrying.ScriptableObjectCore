@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     // Listen to specific event, auto-bind to event.
     public class AbstractGameEventListener<TD, TE, TUe> : MonoBehaviour, ISOEventListener<TD> where TE : EventSO<TD> where TUe : UnityEvent<TD>

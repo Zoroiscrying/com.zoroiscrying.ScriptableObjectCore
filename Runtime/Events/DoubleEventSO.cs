@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     [EditorIcon("typeEvent")]
     [CreateAssetMenu(menuName = "Unity Core/Unity SO/Events/DoubleEvent", fileName = "New DoubleEvent SO")]

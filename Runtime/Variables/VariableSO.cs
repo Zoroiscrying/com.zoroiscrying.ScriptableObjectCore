@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Serialization;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     public abstract class VariableSO<TD, TE, TF> : BaseVariableSO<TD>, ISerializationCallbackReceiver
         where TE : EventSO<TD>

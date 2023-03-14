@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     [EditorIcon("typeList")]
     public abstract class BaseValueListSO : BaseSO

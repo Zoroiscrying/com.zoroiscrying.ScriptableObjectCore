@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.TestTools;
 using UnityEngine.UI;
 
-namespace Tests.Editor
+namespace Zoroiscrying.ScriptableObjectCore.Tests.Editor
 {
     public class ZoroSOCoreTests
     {

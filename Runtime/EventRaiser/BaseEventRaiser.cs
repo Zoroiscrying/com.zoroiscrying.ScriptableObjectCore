@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     /// <summary>
     /// Base Event Raiser Class for handling Scriptable Object Event Calling

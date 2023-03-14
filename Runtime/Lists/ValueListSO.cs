@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     public class ValueListSO<TD, TE> : BaseValueListSO, IList<TD>
         where TE : EventSO<TD>

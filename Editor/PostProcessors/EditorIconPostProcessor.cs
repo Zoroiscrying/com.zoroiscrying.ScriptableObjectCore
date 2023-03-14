@@ -3,7 +3,7 @@ using System.Linq;
 using System.Collections.Generic;
 using UnityEditor;
 
-namespace com.zoroiscrying.ScriptableObjectCore.Editor
+namespace Zoroiscrying.ScriptableObjectCore.Editor
 {
     /// <summary>
     /// Postprocessor that processes all scripts using the EditorIcon attribute and assigns the matching icon guid (matching the icon query name) to the script's meta. It's a very simple solution (and very hacky), but works really great.

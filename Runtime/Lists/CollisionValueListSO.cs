@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     [EditorIcon("typeList")]
     [CreateAssetMenu(menuName = "Unity Core/Unity SO/Value Lists/CollisionList", fileName = "new CollisionList SO")]

@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.3d-group.unity-simple-notifications": {
-      "version": "https://github.com/3d-group/unity-simple-notifications.git",
+    "com.zoroiscrying.core-game-systems": {
+      "version": "https://github.com/Zoroiscrying/com.zoroiscrying.core-game-systems.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},

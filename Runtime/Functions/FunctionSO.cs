@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     public abstract class FunctionSO<TR> : BaseSO
     {

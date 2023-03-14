@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     public abstract class EquatableVariableSO<TD, TE, TF> : VariableSO<TD, TE, TF>
         where TD : IEquatable<TD>

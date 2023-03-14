@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     /// <summary>
     /// Specify a texture name from your assets which you want to be assigned as an icon to the MonoScript.

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     public class BaseSO : ScriptableObject
     {

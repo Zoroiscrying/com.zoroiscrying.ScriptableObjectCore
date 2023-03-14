@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     [EditorIcon("typeVariable")]
     [CreateAssetMenu(menuName = "Unity Core/Unity SO/Variables/IntVariable", fileName = "New IntVariable SO")]

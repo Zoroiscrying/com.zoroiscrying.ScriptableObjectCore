@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace com.zoroiscrying.ScriptableObjectCore
+namespace Zoroiscrying.ScriptableObjectCore
 {
     [EditorIcon("typeList")]
     [CreateAssetMenu(menuName = "Unity Core/Unity SO/Value Lists/Vector3List", fileName = "new Vector3List SO")]
