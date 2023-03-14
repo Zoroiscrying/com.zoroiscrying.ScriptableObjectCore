@@ -1,5 +1,5 @@
-[![npm package](https://img.shields.io/npm/v/com.zoroiscrying.com.zoroiscrying.ScriptableObjectCore)](https://www.npmjs.com/package/com.zoroiscrying.com.zoroiscrying.ScriptableObjectCore)
-[![openupm](https://img.shields.io/npm/v/com.zoroiscrying.com.zoroiscrying.ScriptableObjectCore?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.zoroiscrying.com.zoroiscrying.ScriptableObjectCore/)
+[![npm package](https://img.shields.io/npm/v/com.zoroiscrying.ScriptableObjectCore)](https://www.npmjs.com/package/com.zoroiscrying.com.zoroiscrying.ScriptableObjectCore)
+[![openupm](https://img.shields.io/npm/v/com.zoroiscrying.ScriptableObjectCore?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.zoroiscrying.com.zoroiscrying.ScriptableObjectCore/)
 ![Tests](https://github.com/zoroiscrying/com.zoroiscrying.ScriptableObjectCore/workflows/Tests/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
@@ -49,7 +49,7 @@ Package should now appear in package manager.
 The package is also available on the [openupm registry](https://openupm.com/packages/com.zoroiscrying.com.zoroiscrying.ScriptableObjectCore). You can install it eg. via [openupm-cli](https://github.com/openupm/openupm-cli).
 
 ```
-openupm add com.zoroiscrying.com.zoroiscrying.ScriptableObjectCore
+openupm add com.zoroiscrying.ScriptableObjectCore
 ```
 
 ### via Git URL
