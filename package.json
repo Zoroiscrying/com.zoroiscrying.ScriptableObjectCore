@@ -2,7 +2,7 @@
   "name": "com.zoroiscrying.scriptable-object-core",
   "displayName": "zoroiscrying - ZoroSOCore",
   "version": "0.0.1",
-  "unity": "2020.3.14",
+  "unity": "2020.3",
   "description": "Package for utilizing scriptable object for game development in Unity, inspired by Atoms.",
   "keywords": [
     "unity",
